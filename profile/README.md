@@ -7,3 +7,7 @@ The primary goal of the team is to create, design, build, and test novel machine
 The DIMLab is in Kettering Labs, room 143, on the University of Dayton campus.
 
 ![Logo](https://github.com/University-of-Dayton-DIMLab/.github/blob/main/profile/logo.jpg?raw=true "Logo")
+
+## Setting Up GitHub Desktop
+
+A setup guide has been created for the purposes of instructing people on how to setup and use our GitHub organization. You can find it [here](https://github.com/University-of-Dayton-DIMLab/.github/blob/main/Documentation/GitHubSetup.md).
